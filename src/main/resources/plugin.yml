@@ -1,0 +1,7 @@
+name: CropHoppers
+version: 1.0.0
+main: com.sweepingloutus.crophoppers.main
+
+commands:
+  convert:
+    permission: "convert"
